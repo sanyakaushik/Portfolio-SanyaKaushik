@@ -4,10 +4,10 @@ const experiences = [
       company: "Classplus",
       date: "Jul 2023 – Oct 2023",
       points: [
-        "Built a Next.js drag-and-drop builder using React hooks and reusable UI components.",
-        "Improved app launch speed by nearly 40%.",
-        "Worked on drip-marketing platform APIs and real-time analytics.",
-        "Improved reliability using Vite migration and GitHub Actions CI/CD.",
+        "Reduced app launch time by 40% by building a drag-and-drop UI builder using Next.js, React hooks, and reusableccomponents.",
+        "Increased engagement by 25% by developing a drip marketing system handling 10K+ daily campaigns using Node.js, cron jobs, and analytics pipelines.",
+        " Improved deployment reliability to 99% by migrating from Webpack to Vite and implementing CI/CD pipelines using GitHub Actions.",
+        "Enhanced release efficiency by delivering scalable, fault-tolerant systems through cross-team collaboration using modern full-stack practices.",
       ],
     },
     {
@@ -15,10 +15,10 @@ const experiences = [
       company: "Classplus",
       date: "Jan 2023 – Jul 2023",
       points: [
-        "Automated manual data scraping using Python, Selenium, BeautifulSoup, SQL, and Linux.",
-        "Saved 160+ staff-hours per month.",
-        "Improved data accuracy by 15% using validation and cleaning pipelines.",
-        "Built scalable ingestion workflows on AWS EC2.",
+        "Saved 160+ staff-hours/month and cut operational costs by 70% by automating manual data scraping using Python,Selenium, BeautifulSoup, SQL, and Shell scripting",
+        "Increased data processing throughput by building parallelized ingestion pipelines and AWS EC2 scaling workflows to resolve runtime bottlenecks.",
+        "Improved data accuracy by 15% by developing validation and cleaning scripts in Python/SQL, ensuring consistency across multi-source workflows.",
+        "Saved $85K+ annually by engineering a scalable analytics infrastructure that automated and unified data pipelines",
       ],
     },
     {
@@ -26,10 +26,10 @@ const experiences = [
       company: "CSUF",
       date: "Jan 2026 – May 2026",
       points: [
-        "Researching breast cancer detection using thermography and deep learning.",
-        "Built CNN-based models using EfficientNetB0, ResNet50, DenseNet121, and InceptionV3.",
-        "Used Grad-CAM for explainable AI visualizations.",
-        "Designed ensemble model evaluation using sensitivity, specificity, F1, ROC-AUC, and AP.",
+        "Built a university-wide research platform using React, Node.js, and REST APIs to improve equipment visibility and access across departments for faculty, students, and research teams across the campus.",
+        "Developed scalable React UIs to streamline research discovery and enable efficient navigation for faculty, students, and interdisciplinary research teams across multiple departments.",
+        " Implemented backend services using Node.js and REST architecture to support reliable cross-department data workflows, integration, and system-level scalability across distributed research environments",
+        "Delivered a centralized web platform to standardize research presentation and showcase high-value equipment across departments",
       ],
     },
   ];
