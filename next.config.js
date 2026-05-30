@@ -3,8 +3,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/sanya-portfolio",
-  assetPrefix: "/sanya-portfolio/",
+  basePath: "/Portfolio-SanyaKaushik",
+  assetPrefix: "/Portfolio-SanyaKaushik/",
 };
 
 module.exports = nextConfig;
